@@ -1,5 +1,6 @@
-hola mundo cruel .. ..    
-adios venus 
+hola mundo bonito
+adios marte
+
 
 linea1
 linea2
